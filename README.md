@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unschooledgamer&label=Profile%20views&color=0e75b6&style=flat" alt="unschooledgamer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unschooledgamer" alt="unschooledgamer" /></a> </p>
+<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=unschooledgamer&theme=dracula" alt="unschooledgamer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/unschooledgamer" target="blank"><img src="https://img.shields.io/twitter/follow/unschooledgamer?logo=twitter&style=for-the-badge" alt="unschooledgamer" /></a> </p>
 
